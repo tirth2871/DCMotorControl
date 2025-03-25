@@ -70,7 +70,7 @@ float enc = 750;
 float error, p, p_old, error_old;
 float sim_out, sim_out_old, open_loop, open_loop_old;
 
-float Kp = 2;
+float Kp = 5;
 float Ki = 50;
 
 float Kg = 290;
